@@ -8,7 +8,7 @@ component that will change what it displays based on state.
 ## Objectives
 
 1. Update state in React by using `this.setState()` and passing in an object
-2. Describe what happens when state is updated
+2. Describe what happens when  state is updated
 3. Explain the difference between changing state and changing props
 
 ## Updating state
